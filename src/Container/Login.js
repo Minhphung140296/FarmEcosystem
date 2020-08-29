@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled, { keyframes, createGlobalStyle } from "styled-components";
-import Img from '../Images/Mountain.jpg';
+import Img from '../Images/Mountain.jpg';   
 const jump = keyframes`
   from{
     transform: translateY(0)
