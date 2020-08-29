@@ -127,7 +127,7 @@ function Login() {
             value={dados.password}
             onChange={handleChange}
           />
-          <Button>Entrar</Button>
+          <Button>Login</Button>
         </Form>
       </Wrapper>
     </>
